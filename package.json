@@ -46,7 +46,7 @@
     "perf-sym": "^2.0.3",
     "pump": "^3.0.0",
     "pumpify": "^1.4.0",
-    "semver": "^5.5.1",
+    "semver": "^7.3.5",
     "single-line-log": "^1.0.1",
     "split2": "^3.1.0",
     "tachyons": "^4.9.1",
