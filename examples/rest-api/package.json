@@ -9,7 +9,7 @@
   "author": "David Mark Clements",
   "license": "MIT",
   "dependencies": {
-    "restify": "^4.0.3"
+    "restify": "^8.6.0"
   },
   "devDependencies": {
     "standard": "^5.4.1"
